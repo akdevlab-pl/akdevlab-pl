@@ -1,4 +1,4 @@
-## Cześć, tu AK DevLab 👋
+## Cześć, tu AK Dev Lab 👋
 
 Tworzymy **moduły PrestaShop**, **strony i sklepy internetowe**, **aplikacje mobilne** oraz **agentów AI** dla e-commerce.
 
