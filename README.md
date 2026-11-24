@@ -9,6 +9,7 @@ Nasze moduły powstają i pracują na co dzień w prawdziwym sklepie internetowy
 | Moduł | Co robi | Pobierz |
 |---|---|---|
 | [**Pasek darmowej dostawy**](https://github.com/akdevlab-pl/prestashop-free-shipping-bar) | Pokazuje klientowi, ile brakuje do darmowej dostawy – w koszyku, okienku po dodaniu produktu i w zamówieniu. | [ZIP](https://github.com/akdevlab-pl/prestashop-free-shipping-bar/releases/latest) |
+| [**Wyszukiwarka: tylko dostępne**](https://github.com/akdevlab-pl/prestashop-in-stock-search) | Wyniki wyszukiwania tylko z produktami na stanie; wpisany rozmiar („nike 42”, „bluza XL”) pokazuje tylko produkty z tym rozmiarem. Bez override. | [ZIP](https://github.com/akdevlab-pl/prestashop-in-stock-search/releases/latest) |
 
 Kolejne moduły w przygotowaniu. Kliknij **Follow**, żeby nie przegapić nowości.
 
